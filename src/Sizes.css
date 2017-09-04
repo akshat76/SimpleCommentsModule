@@ -1,0 +1,12 @@
+.small{
+     
+    border:5px solid red;   
+}
+.medium{
+    
+    border : 15px solid green;
+}
+.large{
+   
+    border :20px solid yellow;
+}
